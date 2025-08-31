@@ -49,8 +49,8 @@ ul {
 }
 
 li {
-  background-color: Cornsilk;
-  border: 1px solid BurlyWood;
+  background-color: rgb(8, 179, 205);
+  border: 1px solid rgb(178, 231, 173);
   border-radius: 5px 2px;
   margin: 8px 0;
 }
@@ -77,7 +77,7 @@ li div button:focus {
 }
 
 li h2 {
-  background-color: NavajoWhite;
+  background-color: rgb(8, 179, 205);
   margin: 0;
   padding: 4px;
 }
